@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mateidesa
 - 🏫 I'm currently studying AI at CTU Prague, Faculty of Information Technology
 - 👀 I’m interested in Machine Learning, AI and Data Analysis
-- 🌱 I’m currently learning fine-tuninh LLMs
+- 🌱 I’m currently learning fine-tuning LLMs
 - 📫 How to reach me ...
 
 <!---
