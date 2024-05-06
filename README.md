@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mateidesa
+- 👋 Hi, I’m @alexmateides
 - 🏫 I'm currently studying AI at CTU Prague, Faculty of Information Technology
 - 👀 I’m interested in Machine Learning, AI and Data Analysis
 - 🌱 I’m currently learning fine-tuning LLMs
