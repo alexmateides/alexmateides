@@ -2,7 +2,7 @@
 ![alt text](https://github.com/alexmateides/alexmateides/blob/main/pic2.png) </br>
 
 ## About Me
-- ✨ Data Scientist at ![OmniCrane](https://www.omnicrane.com/en)
+- ✨ Data Scientist at [OmniCrane](https://www.omnicrane.com/en)
 - 🇨🇿 Studying BSc. at CTU Prague, Faculty of Information Technology
 - 👀 I’m interested in Machine Learning, AI and Data Analysis
 - 🛠️ Currently fine-tuning and deploying LLMs
@@ -15,4 +15,4 @@
 ## Contact
 *Feel free to contact me @*
 - alex.mateides@gmail.com
-- ![LinkedIn](https://www.linkedin.com/in/alexander-mateides-138136285/)
+- [LinkedIn](https://www.linkedin.com/in/alexander-mateides-138136285/)
