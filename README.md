@@ -2,10 +2,9 @@
 ![alt text](https://github.com/alexmateides/alexmateides/blob/main/pic2.png) </br>
 
 ## About Me
-- ✨ MLE at [OmniCrane](https://www.omnicrane.com/en/about-us)
-- 🇨🇿 Studying BSc. at CTU Prague, Faculty of Information Technology
-- 👀 I’m interested in Machine Learning, AI and Data Analysis
-- 🛠️ Currently fine-tuning and deploying LLMs
+- 🇨🇿 Studying MSc. at CTU Prague, Faculty of Information Technology
+- 👀 I’m interested in AI Engineering & Architecture, Machine Learning and Data Analysis
+- 🛠️ Currently developing agentic systems
 ## Tech stack
 - 🐍 Python (Transformers, Pytorch, NumPy, MatPlotLib, Pandas)
 - ⚙️ C/C++
